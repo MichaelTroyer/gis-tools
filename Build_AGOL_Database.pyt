@@ -19,10 +19,8 @@ Build an AGOL database:
         b. Add Global IDs
         c. Enable Attachments
     4. Assign domains
-    5. Profit
 
-TODO: Figure out step 5..
-      Also explain how this shit works..
+TODO: Better documentation - explain how this works..
 
 #####################
 #    __       __    #
